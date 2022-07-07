@@ -26,3 +26,4 @@ Her bir veride n+(n-1)+(n-2)...+1 tane veri irdelemesi yapacağımdan bu hesap n
 O halde O(nlogn) olur.
 ## Binary Search Tree Projesi
 Binary Search de verilen verilerin sıralı olduğu varsayımı ile yola çıkıldığından [7,5,1,8,3,6,0,9,4,2] verilmiş diziyi sıralı hale getirelim. [0,1,2,3,4,5,6,7,8,9] bu dizide rootumuzu ortanca sayıya alırsak en az işlemde Binary Search Tree mizi oluşturabileceğimizi düşünüyorum. O yüzden root=4 alalım ve ağacımızı oluşturalım. 
+![Binary Search Tree](https://user-images.githubusercontent.com/108769080/177821232-c5e36db3-da23-4f83-a5c3-66b144bccb65.png)
